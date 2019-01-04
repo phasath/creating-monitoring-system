@@ -2,6 +2,8 @@
 
 Created by Raphael Sathler, on Dec 21, 2018.
 
+![Summarize](https://cdn.pbrd.co/images/HUSrdjk.png)
+![Server](https://cdn.pbrd.co/images/HUSsxNi.png)
 
 # Why this tutorial?
 
